@@ -1,5 +1,4 @@
 ## Meet Me 
 My name is Keynia Kingsberry
-Graduating Senior at WSSU
-Informational Techology Major| Data Science Minor
+Informational Techology| Data Science Minor
 Having Fun Coding
